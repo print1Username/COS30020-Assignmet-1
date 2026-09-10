@@ -71,7 +71,7 @@ const navbar = `
                 <!-- TODO: 修改 Login hyperlink -->
                 <a
                     href="#"
-                    class="btn btn-dark custom-login-button"
+                    class="btn btn-dark btn-lg custom-login-button"
                 >
                     Login
                 </a>
@@ -79,7 +79,7 @@ const navbar = `
                 <!-- TODO: 修改 Sign Up hyperlink -->
                 <a
                     href="#"
-                    class="btn btn-light"
+                    class="btn btn-light btn-lg"
                 >
                     Sign Up
                 </a>
