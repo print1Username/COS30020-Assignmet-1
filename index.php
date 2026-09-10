@@ -8,7 +8,8 @@
         <!-- Bootstrap 5.3.8 -->
         <link
             href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
-            rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+            rel="stylesheet"
+            integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
             crossorigin="anonymous"
         >
 
@@ -25,7 +26,7 @@
 
         <!-- Your page content -->
         <main class="container py-5">
-            <h1>Welcome</h1>
+            <h1>Introduction</h1>
             <p>This is my website homepage.</p>
         </main>
 
