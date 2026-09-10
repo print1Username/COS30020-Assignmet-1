@@ -27,7 +27,6 @@
         <!-- Your page content -->
         <main class="container py-5">
             <h1>Login</h1>
-            
         </main>
 
         <!-- Bootstrap JavaScript -->
