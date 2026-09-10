@@ -84,11 +84,11 @@ const navbar = `
             </ul>
 
             <!-- Authentication Buttons -->
-            <div class="d-flex gap-2">
+            <div class="d-flex gap-3">
 
                 <!-- TODO: 修改 Login hyperlink -->
                 <a
-                    href="#"
+                    href="login.php"
                     class="btn btn-dark btn-lg custom-login-button"
                 >
                     Login
