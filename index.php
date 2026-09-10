@@ -16,7 +16,7 @@
         <!-- Custom Navbar CSS -->
         <link
             rel="stylesheet"
-            href="css/navbar.css"
+            href="style/navbar.css"
         >
     </head>
 

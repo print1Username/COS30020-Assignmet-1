@@ -61,6 +61,26 @@ const navbar = `
                         Activity
                     </a>
                 </li>
+                
+                <li class="nav-item">
+                    <!-- TODO: 修改 Activity hyperlink -->
+                    <a
+                        class="nav-link"
+                        href="#"
+                    >
+                        Community
+                    </a>
+                </li>
+                
+                <li class="nav-item">
+                    <!-- TODO: 修改 Activity hyperlink -->
+                    <a
+                        class="nav-link"
+                        href="#"
+                    >
+                        About
+                    </a>
+                </li>
 
             </ul>
 
