@@ -36,7 +36,6 @@ const navbar = `
                         class="nav-link"
                         aria-current="page"
                         href="main_menu.php"
-                        
                     >
                         Main menu
                     </a>
