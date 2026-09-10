@@ -45,7 +45,7 @@
 
     color: rgba(255, 255, 255, 0.8);
 
-    font-weight: 500;
+    font-weight: 600;
 
     padding-left: 1rem;
     padding-right: 1rem;
@@ -74,9 +74,9 @@
 
     position: absolute;
 
-    left: 1rem;
-    right: 1rem;
-    bottom: 0.25rem;
+    left: 0.75rem;
+    right: 0.75rem;
+    bottom: 0.1rem;
 
     height: 2px;
 
@@ -106,7 +106,7 @@
 
 .custom-navbar .nav-link.active {
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 550;
 }
 
 
