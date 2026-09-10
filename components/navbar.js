@@ -76,7 +76,7 @@ const navbar = `
                     <!-- TODO: 修改 Activity hyperlink -->
                     <a
                         class="nav-link"
-                        href="#"
+                        href="about.php"
                     >
                         About
                     </a>
