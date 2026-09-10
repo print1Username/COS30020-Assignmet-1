@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>My Website</title>
+        <title>Main Menu</title>
 
         <!-- Bootstrap 5.3.8 -->
         <link
@@ -25,7 +25,7 @@
 
         <!-- Your page content -->
         <main class="container py-5">
-            <h1>Welcome</h1>
+            <h1>Main Menu</h1>
             <p>This is my website homepage.</p>
         </main>
 
