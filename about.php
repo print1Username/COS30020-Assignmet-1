@@ -28,20 +28,37 @@
         <main class="container py-5">
             <h1>About Us</h1>
 
-            <p>PHP Version: <?php echo phpversion(); ?></p>
+            <ul class="my-4">
+                <li>
+                    <p>
+                        Problem Solved:
+                        <br/>
+                        wdwd
+                    </p>
+                </li>
 
-            <p>Video Link:</p>
-            <iframe
-                width="560" height="315"
-                src="https://www.youtube.com/embed/yPYZpwSpKmA?si=xzmUWQEmYrqL8Sjs"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen
-            ></iframe>
+                <li>
+                    <p>PHP Version: <?php echo phpversion(); ?></p>
+                </li>
 
-            <p>
-                <a href="index.php">Home</a>
+                <li>
+                    <p>Video Link:</p>
+                    <iframe
+                        width="560" height="315"
+                        src="https://www.youtube.com/embed/yPYZpwSpKmA?si=xzmUWQEmYrqL8Sjs"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin"
+                        allowfullscreen
+                    ></iframe>
+                </li>
+            </ul>
+
+
+
+
+            <p class="py-4">
+                <a href="index.php" class="p-2">Go Back to Home</a>
             </p>
         </main>
 
